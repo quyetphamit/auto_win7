@@ -1,0 +1,8 @@
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Release\AutoSmart.exe.config
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Release\AutoSmart.exe
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Release\AutoSmart.pdb
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Release\AutoSmart.Main.resources
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Release\AutoSmart.Properties.Resources.resources
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Release\AutoSmart.csproj.GenerateResource.Cache
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Release\AutoSmart.exe
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Release\AutoSmart.pdb

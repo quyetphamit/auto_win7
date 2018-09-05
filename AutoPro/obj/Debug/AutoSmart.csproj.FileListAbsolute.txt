@@ -1,0 +1,16 @@
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\AutoSmart.exe.config
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\AutoSmart.exe
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\AutoSmart.pdb
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Debug\AutoSmart.Properties.Resources.resources
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Debug\AutoSmart.csproj.GenerateResource.Cache
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Debug\AutoSmart.exe
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Debug\AutoSmart.pdb
+D:\Quyet\Special\AutoSmart\AutoSmart\obj\Debug\AutoSmart.Main.resources
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\EntityFramework.dll
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\System.Data.SQLite.dll
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\EntityFramework.xml
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quyet\Special\AutoSmart\AutoSmart\bin\Debug\System.Data.SQLite.xml
